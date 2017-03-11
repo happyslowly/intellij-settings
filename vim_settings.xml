@@ -39,6 +39,12 @@
         <mark key="." line="63" column="43" />
         <mark key="^" line="63" column="43" />
       </file>
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/radd_n_ip_0.java" timestamp="1489208743481">
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="74" />
+        <mark key="^" line="17" column="74" />
+        <mark key="." line="17" column="74" />
+      </file>
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/transaction/radd_curr_max_pmt_s_3_v2.java" timestamp="1488323112847">
         <mark key="[" line="12" column="3" />
         <mark key="]" line="15" column="48" />
@@ -82,7 +88,7 @@
         <mark key="^" line="13" column="90" />
         <mark key="." line="13" column="90" />
       </file>
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/IPFunctions.java" timestamp="1488323185382">
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/IPFunctions.java" timestamp="1489209407654">
         <mark key="[" line="838" column="0" />
         <mark key="]" line="838" column="0" />
         <mark key="." line="838" column="0" />
@@ -124,6 +130,7 @@
         <mark key="." line="11" column="88" />
         <mark key="^" line="11" column="88" />
       </file>
+      <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/idi/bom-impl/2.109-rucs-SNAPSHOT/bom-impl-2.109-rucs-20170125.222601-8-sources.jar!/com/paypal/risk/idi/bom/IPImpl.java" timestamp="1489209817097" />
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/DataLoadConstants.java" timestamp="1488327891820">
         <mark key="[" line="81" column="52" />
         <mark key="]" line="81" column="70" />
@@ -172,6 +179,12 @@
         <mark key="." line="825" column="24" />
         <mark key="^" line="232" column="77" />
       </file>
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_trans_ip4_tof_t_v2.java" timestamp="1489209529047">
+        <mark key="[" line="18" column="112" />
+        <mark key="]" line="18" column="112" />
+        <mark key="." line="18" column="112" />
+        <mark key="^" line="18" column="116" />
+      </file>
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/transaction/s_v_outstd_ratio_num.java" timestamp="1488324379101">
         <mark key="[" line="12" column="32" />
         <mark key="]" line="12" column="32" />
@@ -190,6 +203,7 @@
         <mark key="." line="2" column="66" />
         <mark key="^" line="2" column="66" />
       </file>
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/creditcard/ipcntry_mismatch.java" timestamp="1489209358341" />
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/factory/radd/IDI_BI_CONSUMER_SEGMENTS.java" timestamp="1488326533087">
         <mark key="[" line="40" column="47" />
         <mark key="]" line="40" column="47" />
@@ -232,6 +246,8 @@
         <mark key="." line="271" column="51" />
         <mark key="^" line="270" column="77" />
       </file>
+      <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/idi/bom-api/2.109-rucs-SNAPSHOT/bom-api-2.109-rucs-20170125.222450-8-sources.jar!/com/paypal/risk/idi/bom/Account.java" timestamp="1489208930756" />
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_has_used_ipX.java" timestamp="1489209400840" />
       <file name="$USER_HOME$/development/projects/madmen/madmen-etl/src/main/java/com/paypal/risk/madmen/pig/etl/udf/ExpandMapBySchema.java" timestamp="1489009332614">
         <mark key="[" line="230" column="25" />
         <mark key="]" line="230" column="25" />
@@ -255,6 +271,12 @@
         <mark key="]" line="20" column="19" />
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_trans_ip3_tof_t_v2.java" timestamp="1489209791595">
+        <mark key="[" line="17" column="113" />
+        <mark key="]" line="17" column="122" />
+        <mark key="." line="17" column="122" />
+        <mark key="^" line="17" column="122" />
       </file>
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/function/BankAccountFunctions.java" timestamp="1488322783017">
         <mark key="[" line="227" column="58" />
@@ -286,6 +308,12 @@
         <mark key="." line="234" column="50" />
         <mark key="^" line="234" column="50" />
       </file>
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/ip_dof.java" timestamp="1489209343555">
+        <mark key="[" line="25" column="112" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/credit/cc5/CC5SegmentType.java" timestamp="1488999054676">
         <mark key="[" line="86" column="79" />
         <mark key="]" line="86" column="82" />
@@ -315,6 +343,12 @@
         <mark key="]" line="19" column="132" />
         <mark key="." line="19" column="132" />
         <mark key="^" line="19" column="132" />
+      </file>
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_trans_ip2_tof_t_v2.java" timestamp="1489209832114">
+        <mark key="[" line="17" column="110" />
+        <mark key="]" line="17" column="122" />
+        <mark key="." line="17" column="122" />
+        <mark key="^" line="17" column="122" />
       </file>
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/transaction/nach_last_return_age.java" timestamp="1488321966066">
         <mark key="[" line="11" column="0" />
@@ -444,11 +478,11 @@
       <jump line="66" column="29" filename="$USER_HOME$/development/projects/madmen/madmen-etl/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cc5_score</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJnZXRCZWFjb25FdmVudHMiLCAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRMb2dpbkV2ZW50cyIsICJnZXROYW1lRXZlbnRzIiwKICAgICJnZXRBbGxUcmFuc2FjdGlvbnNTZW50IiwgImdldEFsbFRyYW5zYWN0aW9uc0Z1bmRlZCIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QmFua0FjY291bnRFdmVudHMiLAogICAgImdldEZyYXVkTmV0RXZlbnQiLCAiZ2V0QWNjdElwcyJ9KX0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>cc5_score</text>
+        <text>@RTDPContextDependencies(value = {</text>
       </register>
       <register name="/" type="4">
         <text>avro</text>
@@ -457,31 +491,31 @@
         <text encoding="base64">QFJURFBDb250ZXh0RGVwZW5kZW5jeShjb250ZXh0S2V5ID0gVmFyQ29uc3RhbnRzLkFDQ09VTlQsIGJvbUludGVyZmFjZSA9IEFjY291bnQuY2xhc3MsIG1ldGhvZHMgPSB7ImdldEFsbENyZWRpdENhcmRzIn0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGZpZWxkTmFtZSA9IHM7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICJnZXRCZWFjb25FdmVudHMiLCAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRMb2dpbkV2ZW50cyIsICJnZXROYW1lRXZlbnRzIiwKICAgICJnZXRBbGxUcmFuc2FjdGlvbnNTZW50IiwgImdldEFsbFRyYW5zYWN0aW9uc0Z1bmRlZCIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QmFua0FjY291bnRFdmVudHMiLAogICAgImdldEZyYXVkTmV0RXZlbnQiLCAiZ2V0QWNjdElwcyJ9KX0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRtcCA9IHMuc3Vic3RyaW5nKHMuaW5kZXhPZigiOiIpICsgMSwgcy5sZW5ndGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICJnZXRCZWFjb25FdmVudHMiLCAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRMb2dpbkV2ZW50cyIsICJnZXROYW1lRXZlbnRzIiwKICAgICJnZXRBbGxUcmFuc2FjdGlvbnNTZW50IiwgImdldEFsbFRyYW5zYWN0aW9uc0Z1bmRlZCIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QmFua0FjY291bnRFdmVudHMiLAogICAgImdldEZyYXVkTmV0RXZlbnQiLCAiZ2V0QWNjdElwcyJ9KX0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRtcC5jb250YWlucygiLiIpKSB7Cg==</text>
+        <text encoding="base64">QFJURFBDb250ZXh0RGVwZW5kZW5jaWVzKHZhbHVlID0gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QWxsVHJhbnNhY3Rpb25zU2VudCIsCiAgICAgICAgImdldEJlYWNvbkV2ZW50cyIsICJnZXRCYW5rQWNjb3VudEV2ZW50cyJ9KX0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGlzIHRoZXJlIGFueSBkdXBsaWNhdGU/CiAgICAgICAgICBpZiAoZmllbGRTZXQuY29udGFpbnMoZmllbGROYW1lKSkgewoKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGZpZWxkU2V0LmFkZChmaWVsZE5hbWUpOwogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGZpZWxkTmFtZSA9IHM7CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmaWVsZFNldC5hZGQoZmllbGROYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRtcCA9IHMuc3Vic3RyaW5nKHMuaW5kZXhPZigiOiIpICsgMSwgcy5sZW5ndGgoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9maWVsZE5hbWUgPSBzLnN1YnN0cmluZyhzLmluZGV4T2YoIjoiKSsxLCBzLmxlbmd0aCgpKS5yZXBsYWNlKCIuIiwgIl8iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRtcC5jb250YWlucygiLiIpKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGlzIHRoZXJlIGFueSBkdXBsaWNhdGU/CiAgICAgICAgICBpZiAoZmllbGRTZXQuY29udGFpbnMoZmllbGROYW1lKSkgewoKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGZpZWxkU2V0LmFkZChmaWVsZE5hbWUpOwogICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
