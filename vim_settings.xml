@@ -148,6 +148,7 @@
         <mark key="." line="11" column="57" />
         <mark key="^" line="11" column="57" />
       </file>
+      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/partnership/venmo/VPNSFModel.java" timestamp="1489532296509" />
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/bank/s_ach_failed_ratio_new.java" timestamp="1488319516352">
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="30" />
@@ -259,10 +260,11 @@
       </file>
       <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/idi/bom-api/2.109-rucs-SNAPSHOT/bom-api-2.109-rucs-20170125.222450-8-sources.jar!/com/paypal/risk/idi/bom/Account.java" timestamp="1489208930756" />
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_has_used_ipX.java" timestamp="1489209400840" />
-      <file name="$USER_HOME$/development/projects/madmen/madmen-etl/src/main/java/com/paypal/risk/madmen/pig/etl/udf/ExpandMapBySchema.java" timestamp="1489526058099">
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="." line="236" column="0" />
+      <file name="$USER_HOME$/development/projects/madmen/madmen-etl/src/main/java/com/paypal/risk/madmen/pig/etl/udf/ExpandMapBySchema.java" timestamp="1489533362103">
+        <mark key="[" line="238" column="31" />
+        <mark key="]" line="238" column="31" />
+        <mark key="." line="238" column="31" />
+        <mark key="^" line="243" column="13" />
       </file>
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/creditcard/CreditCardFunctions.java" timestamp="1488322917701">
         <mark key="[" line="380" column="57" />
@@ -494,41 +496,41 @@
       <jump line="66" column="29" filename="$USER_HOME$/development/projects/madmen/madmen-etl/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z0lucHV0KHZhcmlhYmxlQ29udGV4dCwgY29udGV4dCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>avro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z0lucHV0KHZhcmlhYmxlQ29udGV4dCwgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLndhcm4oImR1cGxpY2F0ZWQ6ICIgKyBmaWVsZE5hbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHByZWZpeDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludCBpID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN1ZmZpeAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGludCBpID0gMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN1ZmZpeAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyByZXBsYWNlICIuIiB3aXRoICJfIiB3aGVuIHRoZXJlJ3MgYSBkdXBsaWNhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcmVmaXggPSBzLnNwbGl0KCJcXC4iKVswXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyByZXBsYWNlICIuIiB3aXRoICJfIiB3aGVuIHRoZXJlJ3MgYSBkdXBsaWNhdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJnZXRCZWFjb25FdmVudHMiLCAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRMb2dpbkV2ZW50cyIsICJnZXROYW1lRXZlbnRzIiwKICAgICJnZXRBbGxUcmFuc2FjdGlvbnNTZW50IiwgImdldEFsbFRyYW5zYWN0aW9uc0Z1bmRlZCIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QmFua0FjY291bnRFdmVudHMiLAogICAgImdldEZyYXVkTmV0RXZlbnQiLCAiZ2V0QWNjdElwcyJ9KX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcmVmaXggPSBzLnNwbGl0KCJcXC4iKVswXTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICJnZXRCZWFjb25FdmVudHMiLCAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRMb2dpbkV2ZW50cyIsICJnZXROYW1lRXZlbnRzIiwKICAgICJnZXRBbGxUcmFuc2FjdGlvbnNTZW50IiwgImdldEFsbFRyYW5zYWN0aW9uc0Z1bmRlZCIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QmFua0FjY291bnRFdmVudHMiLAogICAgImdldEZyYXVkTmV0RXZlbnQiLCAiZ2V0QWNjdElwcyJ9KX0pCg==</text>
