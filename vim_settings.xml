@@ -253,11 +253,10 @@
       </file>
       <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/idi/bom-api/2.109-rucs-SNAPSHOT/bom-api-2.109-rucs-20170125.222450-8-sources.jar!/com/paypal/risk/idi/bom/Account.java" timestamp="1489208930756" />
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_has_used_ipX.java" timestamp="1489209400840" />
-      <file name="$USER_HOME$/development/projects/madmen/madmen-etl/src/main/java/com/paypal/risk/madmen/pig/etl/udf/ExpandMapBySchema.java" timestamp="1489009332614">
-        <mark key="[" line="230" column="25" />
-        <mark key="]" line="230" column="25" />
-        <mark key="." line="230" column="25" />
-        <mark key="^" line="230" column="25" />
+      <file name="$USER_HOME$/development/projects/madmen/madmen-etl/src/main/java/com/paypal/risk/madmen/pig/etl/udf/ExpandMapBySchema.java" timestamp="1489526058099">
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="." line="236" column="0" />
       </file>
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/creditcard/CreditCardFunctions.java" timestamp="1488322917701">
         <mark key="[" line="380" column="57" />
@@ -484,11 +483,11 @@
       <jump line="66" column="29" filename="$USER_HOME$/development/projects/madmen/madmen-etl/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGludCBpID0gMDsK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>avro</text>
@@ -497,31 +496,31 @@
         <text encoding="base64">QFJURFBDb250ZXh0RGVwZW5kZW5jeShjb250ZXh0S2V5ID0gVmFyQ29uc3RhbnRzLkFDQ09VTlQsIGJvbUludGVyZmFjZSA9IEFjY291bnQuY2xhc3MsIG1ldGhvZHMgPSB7ImdldEFsbENyZWRpdENhcmRzIn0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJnZXRCZWFjb25FdmVudHMiLCAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRMb2dpbkV2ZW50cyIsICJnZXROYW1lRXZlbnRzIiwKICAgICJnZXRBbGxUcmFuc2FjdGlvbnNTZW50IiwgImdldEFsbFRyYW5zYWN0aW9uc0Z1bmRlZCIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QmFua0FjY291bnRFdmVudHMiLAogICAgImdldEZyYXVkTmV0RXZlbnQiLCAiZ2V0QWNjdElwcyJ9KX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGludCBpID0gMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJnZXRCZWFjb25FdmVudHMiLCAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRMb2dpbkV2ZW50cyIsICJnZXROYW1lRXZlbnRzIiwKICAgICJnZXRBbGxUcmFuc2FjdGlvbnNTZW50IiwgImdldEFsbFRyYW5zYWN0aW9uc0Z1bmRlZCIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QmFua0FjY291bnRFdmVudHMiLAogICAgImdldEZyYXVkTmV0RXZlbnQiLCAiZ2V0QWNjdElwcyJ9KX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN1ZmZpeAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFJURFBDb250ZXh0RGVwZW5kZW5jaWVzKHZhbHVlID0gewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QWxsVHJhbnNhY3Rpb25zU2VudCIsCiAgICAgICAgImdldEJlYWNvbkV2ZW50cyIsICJnZXRCYW5rQWNjb3VudEV2ZW50cyJ9KX0pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGZpZWxkTmFtZSA9IHM7CiAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRtcCA9IHMuc3Vic3RyaW5nKHMuaW5kZXhPZigiOiIpICsgMSwgcy5sZW5ndGgoKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRtcC5jb250YWlucygiLiIpKSB7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyByZXBsYWNlICIuIiB3aXRoICJfIiB3aGVuIHRoZXJlJ3MgYSBkdXBsaWNhdGUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBwcmVmaXggPSBzLnNwbGl0KCJcXC4iKVswXTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJnZXRCZWFjb25FdmVudHMiLCAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRMb2dpbkV2ZW50cyIsICJnZXROYW1lRXZlbnRzIiwKICAgICJnZXRBbGxUcmFuc2FjdGlvbnNTZW50IiwgImdldEFsbFRyYW5zYWN0aW9uc0Z1bmRlZCIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QmFua0FjY291bnRFdmVudHMiLAogICAgImdldEZyYXVkTmV0RXZlbnQiLCAiZ2V0QWNjdElwcyJ9KX0pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJnZXRCZWFjb25FdmVudHMiLCAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRMb2dpbkV2ZW50cyIsICJnZXROYW1lRXZlbnRzIiwKICAgICJnZXRBbGxUcmFuc2FjdGlvbnNTZW50IiwgImdldEFsbFRyYW5zYWN0aW9uc0Z1bmRlZCIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QmFua0FjY291bnRFdmVudHMiLAogICAgImdldEZyYXVkTmV0RXZlbnQiLCAiZ2V0QWNjdElwcyJ9KX0pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QFJURFBDb250ZXh0RGVwZW5kZW5jaWVzKHZhbHVlID0gewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGlzIHRoZXJlIGFueSBkdXBsaWNhdGU/CiAgICAgICAgICBpZiAoZmllbGRTZXQuY29udGFpbnMoZmllbGROYW1lKSkgewoKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGZpZWxkU2V0LmFkZChmaWVsZE5hbWUpOwogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QWxsVHJhbnNhY3Rpb25zU2VudCIsCiAgICAgICAgImdldEJlYWNvbkV2ZW50cyIsICJnZXRCYW5rQWNjb3VudEV2ZW50cyJ9KX0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
