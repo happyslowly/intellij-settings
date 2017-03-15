@@ -57,11 +57,11 @@
         <mark key="^" line="17" column="122" />
       </file>
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/edge/account/decay/acct_addcc_cnt_dk_x.java" timestamp="1489521753899" />
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/ip_dof.java" timestamp="1489615331997">
-        <mark key="[" line="25" column="112" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/ip_dof.java" timestamp="1489617317564">
+        <mark key="[" line="26" column="114" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/development/projects/unified-models/src/test/java/com/paypal/risk/idi/models/test/ModelTestSuit.java" timestamp="1489527663873">
         <mark key="[" line="115" column="0" />
