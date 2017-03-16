@@ -49,7 +49,18 @@
         <mark key="." line="238" column="31" />
         <mark key="^" line="243" column="13" />
       </file>
+      <file name="$USER_HOME$/development/projects/unified-models/src/test/resources/Xoom16SFModel.pmml" timestamp="1489686500861">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/development/projects/IDI-Analytics/projects/libraries/model/src/main/java/com/paypal/risk/idi/models/atom/atom15/ATOM15SegmentType.java" timestamp="1489603223518" />
+      <file name="$USER_HOME$/development/projects/unified-models/src/test/java/com/paypal/risk/idi/models/PMMLEngineTest.java" timestamp="1489686536576">
+        <mark key="[" line="114" column="33" />
+        <mark key="]" line="114" column="34" />
+        <mark key="^" line="114" column="34" />
+        <mark key="." line="114" column="34" />
+      </file>
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_trans_ip3_tof_t_v2.java" timestamp="1489209791595">
         <mark key="[" line="17" column="113" />
         <mark key="]" line="17" column="122" />
@@ -58,10 +69,9 @@
       </file>
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/edge/account/decay/acct_addcc_cnt_dk_x.java" timestamp="1489521753899" />
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/ip_dof.java" timestamp="1489617317564">
-        <mark key="[" line="26" column="114" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/development/projects/unified-models/src/test/java/com/paypal/risk/idi/models/test/ModelTestSuit.java" timestamp="1489527663873">
         <mark key="[" line="115" column="0" />
@@ -69,6 +79,7 @@
         <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/partnership/tok/TOK16NSFModel.java" timestamp="1489611858216" />
+      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/partnership/xoom/Xoom16SFModel.java" timestamp="1489685868030" />
       <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/partnership/venmo/VPSFModel.java" timestamp="1489603757479">
         <mark key="[" line="354" column="54" />
         <mark key="]" line="354" column="15" />
@@ -186,44 +197,44 @@
       <jump line="96" column="13" filename="$USER_HOME$/.m2/raptor2/com/paypal/risk/idi/bom-impl/3.4-rucs/bom-impl-3.4-rucs.jar!/com/paypal/risk/idi/bom/BusinessObjectFactory.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8RXh0ZW5zaW9uIG5hbWU9IlJldHVybktleXMiPnhvb20xNl9zZl9zY29yZTwvRXh0ZW5zaW9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>&quot;xoom_sf_score&quot;</text>
       </register>
       <register name="/" type="4">
         <text>avro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLndhcm4oImR1cGxpY2F0ZWQ6ICIgKyBmaWVsZE5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCJ4b29tX3NmX3Njb3JlIiwgZW5naW5lUmVhbC5nZXRTY29yZU5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHByZWZpeDsK</text>
+        <text encoding="base64">ICAgICAgICA8RXh0ZW5zaW9uIG5hbWU9IlJldHVybktleXMiPnhvb20xNl9zZl9zY29yZTwvRXh0ZW5zaW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHByZWZpeDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludCBpID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN1ZmZpeAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGludCBpID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyByZXBsYWNlICIuIiB3aXRoICJfIiB3aGVuIHRoZXJlJ3MgYSBkdXBsaWNhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN1ZmZpeAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcmVmaXggPSBzLnNwbGl0KCJcXC4iKVswXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJnZXRCZWFjb25FdmVudHMiLCAiZ2V0QWRkcmVzc0V2ZW50cyIsICJnZXRFbWFpbEV2ZW50cyIsICJnZXRMb2dpbkV2ZW50cyIsICJnZXROYW1lRXZlbnRzIiwKICAgICJnZXRBbGxUcmFuc2FjdGlvbnNTZW50IiwgImdldEFsbFRyYW5zYWN0aW9uc0Z1bmRlZCIsICJnZXRQaG9uZUV2ZW50cyIsICJnZXRGc29FdmVudHMiLCAiZ2V0QmFua0FjY291bnRFdmVudHMiLAogICAgImdldEZyYXVkTmV0RXZlbnQiLCAiZ2V0QWNjdElwcyJ9KX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyByZXBsYWNlICIuIiB3aXRoICJfIiB3aGVuIHRoZXJlJ3MgYSBkdXBsaWNhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
