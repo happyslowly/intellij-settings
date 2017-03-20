@@ -3,70 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/radd/keys/serving_range.java" timestamp="1489430903830" />
-      <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/idi/bom-impl/3.4-rucs/bom-impl-3.4-rucs-sources.jar!/com/paypal/risk/idi/bom/BusinessObjectFactory.java" timestamp="1489615061246" />
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/radd/ARMRtnRaddVariable.java" timestamp="1489430911539" />
+      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/credit/cc5/CC5AACodeHelper.java" timestamp="1489527824419">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/radd_n_ip_0.java" timestamp="1489208743481">
         <mark key="[" line="17" column="56" />
         <mark key="]" line="17" column="74" />
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="74" />
       </file>
-      <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/idi/edge-containers/3.106.2-raptor/edge-containers-3.106.2-raptor-sources.jar!/com/paypal/risk/idi/edge/container/Account3rdContainer.java" timestamp="1489191240209" />
-      <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/compute/unified-variables/1.2.9-SNAPSHOT/unified-variables-1.2.9-SNAPSHOT-sources.jar!/com/paypal/risk/idi/variables/radd/RADD_AVG_PMT_S_3_NEW.java" timestamp="1489521786041" />
-      <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/compute/unified-variables/1.2.9-SNAPSHOT/unified-variables-1.2.9-SNAPSHOT-sources.jar!/com/paypal/risk/idi/variables/testvitalsign/NumberOfIPsUsed24h.java" timestamp="1489521822184" />
-      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/dummy/RUCS_POC_MODEL.java" timestamp="1489611898987" />
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/IPFunctions.java" timestamp="1489430922387">
-        <mark key="[" line="838" column="0" />
-        <mark key="]" line="838" column="0" />
-        <mark key="." line="838" column="0" />
-        <mark key="^" line="838" column="13" />
-      </file>
-      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/qp/CQP17.java" timestamp="1489699896086" />
-      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/PMMLModel.java" timestamp="1489531104809" />
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/radd/RADDComputeItem.java" timestamp="1489696457194" />
-      <file name="$USER_HOME$/development/projects/unified-models/src/main/resources/models/pmml/minicam/RUCS_test_model.pmml" timestamp="1489689647200" />
-      <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/idi/bom-api/2.109-rucs-SNAPSHOT/bom-api-2.109-rucs-20170125.222450-8-sources.jar!/com/paypal/risk/idi/bom/Account.java" timestamp="1489208930756" />
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_trans_ip3_tof_t_v2.java" timestamp="1489209791595">
-        <mark key="[" line="17" column="113" />
-        <mark key="]" line="17" column="122" />
-        <mark key="." line="17" column="122" />
-        <mark key="^" line="17" column="122" />
-      </file>
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/edge/account/decay/acct_addcc_cnt_dk_x.java" timestamp="1489521753899" />
-      <file name="$USER_HOME$/development/projects/riskunifiedcomputeserv/riskunifiedcomputeservService/src/main/resources/META-INF/configuration/QA/config/application-override.properties" timestamp="1489696958647">
-        <mark key="'" line="14" column="37" />
-      </file>
-      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/partnership/tok/TOK16NSFModel.java" timestamp="1489611858216" />
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_trans_ip2_tof_t_v2.java" timestamp="1489209832114">
-        <mark key="[" line="17" column="110" />
-        <mark key="]" line="17" column="122" />
-        <mark key="." line="17" column="122" />
-        <mark key="^" line="17" column="122" />
-      </file>
-      <file name="$USER_HOME$/development/projects/IDI-Analytics/projects/libraries/variables/src/main/java/com/paypal/risk/idi/variables/transaction/is_ref_txn.java" timestamp="1489603266061" />
-      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/PMMLExtension.java" timestamp="1489700613925" />
-      <file name="$USER_HOME$/development/projects/riskunifiedcomputeserv/riskunifiedcomputeservService/src/main/java/com/paypal/risk/compute/init/dsync/ServerConnectionInit.java" timestamp="1489697409246" />
-      <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/compute/unified-variables/1.2.10-SNAPSHOT/unified-variables-1.2.10-20170314.083145-1-sources.jar!/com/paypal/risk/idi/variables/ip/ip_dof.java" timestamp="1489603666039" />
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/radd/RADD_AVG_PMT_S_3_NEW.java" timestamp="1489526909264" />
-      <file name="$USER_HOME$/development/projects/unified-models/src/test/java/com/paypal/risk/idi/models/credit/CC5ModelTest.java" timestamp="1489527641516">
-        <mark key="[" line="46" column="6" />
-        <mark key="]" line="46" column="6" />
-        <mark key="." line="46" column="6" />
-        <mark key="^" line="46" column="7" />
-      </file>
-      <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/idi/bom-impl/3.4-rucs/bom-impl-3.4-rucs-sources.jar!/com/paypal/risk/idi/bom/AccountIPsVIDsImpl.java" timestamp="1489615038343" />
-      <file name="$USER_HOME$/development/projects/auto-workflow-builder/builder/src/main/java/com/paypal/risk/autoworkflow/builder/PmmlNodeBuilder.java" timestamp="1489701795656" />
-      <file name="$USER_HOME$/.m2/raptor2/com/paypal/risk/idi/bom-impl/2.109-rucs-SNAPSHOT/bom-impl-2.109-rucs-20170125.222601-8-sources.jar!/com/paypal/risk/idi/bom/IPImpl.java" timestamp="1489209817097" />
-      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/partnership/venmo/VPNSFModel.java" timestamp="1489603733976" />
-      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/credit/cc5/CC5AACodeHelper.java" timestamp="1489527824419">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/creditcard/ipcntry_mismatch.java" timestamp="1489209358341" />
-      <file name="$USER_HOME$/.m2/raptor2/com/paypal/rtdp/auto-workflow-builder/2.4-SNAPSHOT/auto-workflow-builder-2.4-20170316.102925-5-sources.jar!/com/paypal/risk/autoworkflow/runner/DAGWorkflowRunner.java" timestamp="1489786471300" />
-      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_has_used_ipX.java" timestamp="1489209400840" />
       <file name="$USER_HOME$/development/projects/madmen/madmen-etl/src/main/java/com/paypal/risk/madmen/pig/etl/udf/ExpandMapBySchema.java" timestamp="1489533362103">
         <mark key="[" line="238" column="31" />
         <mark key="]" line="238" column="31" />
@@ -78,29 +25,55 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/development/projects/IDI-Analytics/projects/libraries/model/src/main/java/com/paypal/risk/idi/models/atom/atom15/ATOM15SegmentType.java" timestamp="1489603223518" />
+      <file name="$USER_HOME$/development/projects/unified-models/src/test/java/com/paypal/risk/idi/models/credit/CC5ModelTest.java" timestamp="1489527641516">
+        <mark key="[" line="46" column="6" />
+        <mark key="]" line="46" column="6" />
+        <mark key="." line="46" column="6" />
+        <mark key="^" line="46" column="7" />
+      </file>
       <file name="$USER_HOME$/development/projects/unified-models/src/test/java/com/paypal/risk/idi/models/PMMLEngineTest.java" timestamp="1489700685978">
         <mark key="[" line="112" column="69" />
         <mark key="]" line="112" column="74" />
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
+      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/dummy/RUCS_POC_MODEL.java" timestamp="1490031718155" />
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_trans_ip3_tof_t_v2.java" timestamp="1489209791595">
+        <mark key="[" line="17" column="113" />
+        <mark key="]" line="17" column="122" />
+        <mark key="." line="17" column="122" />
+        <mark key="^" line="17" column="122" />
+      </file>
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/IPFunctions.java" timestamp="1489430922387">
+        <mark key="[" line="838" column="0" />
+        <mark key="]" line="838" column="0" />
+        <mark key="." line="838" column="0" />
+        <mark key="^" line="838" column="13" />
+      </file>
       <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/ip_dof.java" timestamp="1489617317564">
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/development/projects/riskunifiedcomputeserv/riskunifiedcomputeservService/src/main/resources/META-INF/configuration/QA/config/application-override.properties" timestamp="1489696958647">
+        <mark key="'" line="14" column="37" />
       </file>
       <file name="$USER_HOME$/development/projects/unified-models/src/test/java/com/paypal/risk/idi/models/test/ModelTestSuit.java" timestamp="1489527663873">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="53" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/partnership/xoom/Xoom16SFModel.java" timestamp="1489685868030" />
       <file name="$USER_HOME$/development/projects/unified-models/src/main/java/com/paypal/risk/idi/models/partnership/venmo/VPSFModel.java" timestamp="1489603757479">
         <mark key="[" line="354" column="54" />
         <mark key="]" line="354" column="15" />
         <mark key="^" line="354" column="15" />
         <mark key="." line="354" column="15" />
+      </file>
+      <file name="$USER_HOME$/development/projects/unified-variables/src/main/java/com/paypal/risk/idi/variables/ip/s_trans_ip2_tof_t_v2.java" timestamp="1489209832114">
+        <mark key="[" line="17" column="110" />
+        <mark key="]" line="17" column="122" />
+        <mark key="." line="17" column="122" />
+        <mark key="^" line="17" column="122" />
       </file>
       <file name="/fragment.java" timestamp="1489700727850">
         <mark key="[" line="0" column="0" />
